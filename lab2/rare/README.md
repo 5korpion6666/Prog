@@ -54,4 +54,4 @@ plt.savefig('plot.png', dpi=300)
 - Уравнение касательной: y = 1 + 3.386(x - 1)
 
 ## Использованные источники:
-1. [Devpractice Team. Библиотека Matplotlib.](https://evil-teacher.orbiter.website/books/prog_pm/matplotlib.pdf)
+[Devpractice Team. Библиотека Matplotlib.](https://evil-teacher.orbiter.website/books/prog_pm/matplotlib.pdf)
